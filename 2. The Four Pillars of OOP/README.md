@@ -1,7 +1,7 @@
 # 🧠 **Object-Oriented Programming (OOP) – Learning Overview**
 
 **Learner:** *Adil Amjad*  
-**Track:** Object-Oriented Programming (OOP) – The Four Pillars of OOP
+**Track:** Object-Oriented Programming (OOP) – Four Pillars of OOP
 
 ---
 
