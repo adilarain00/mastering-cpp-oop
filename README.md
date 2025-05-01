@@ -64,6 +64,7 @@ mastering-cpp-oop/
 
 ## 📌 Roadmap Ahead
 
+- ✅ **DSA Fundamentals & STL**
 - ✅ **OOP Foundation Concepts**
 - ✅ **Understanding OOP Pillars**
 - ✅ **Mastering OOP Essentials**
