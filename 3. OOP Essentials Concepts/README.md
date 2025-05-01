@@ -1,7 +1,7 @@
 # 🧠 **Object-Oriented Programming (OOP) – Learning Overview**
 
 **Learner:** *Adil Amjad*  
-**Track:** Object-Oriented Programming (OOP) – Essentials Concepts
+**Track:** Object-Oriented Programming (OOP) – OOP Essentials Concepts.
 
 ---
 
